@@ -2,8 +2,7 @@ body {
     background-image: url("WidgetCoLogo.gif");
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
-    background-size: 60%;
+    background-size: 50%;
 }
 
 article {
@@ -13,11 +12,14 @@ article {
     margin: 15px;
 }
 
+
 section {
     border-style: solid;
     border-left-width: 30px;
-    border-color: green;
-
+    border-color: rgb(128, 87, 0);
+    background-color: rgb(255, 236, 210);
+    margin: 25px;
+    padding: 15px;
 }
 
 header {
@@ -33,7 +35,7 @@ header {
 aside {
     float: right;
     text-align: right;
-    border-right: 20px solid gray;
+    border-right: 20px solid rgb(33, 75, 66);
     padding-right: 15px;
 
 }
@@ -48,6 +50,7 @@ footer {
     padding: 10px;
     color: rgb(185, 185, 185);
     border-top: 1px solid gray;
+
 }
 
 footer a:link {
