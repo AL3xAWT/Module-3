@@ -1,0 +1,67 @@
+body {
+    background-image: url("WidgetCoLogo.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 60%;
+}
+
+article {
+    text-align: center;
+    text-align: justify;
+    padding: 5px 90px;
+    margin: 15px;
+}
+
+section {
+    border-style: solid;
+    border-left-width: 30px;
+    border-color: green;
+
+}
+
+header {
+    text-align: center;
+    font-variant: small-caps;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 20px solid black;
+    
+    
+}
+
+aside {
+    float: right;
+    text-align: right;
+    border-right: 20px solid gray;
+    padding-right: 15px;
+
+}
+
+aside::first-line {
+    font-weight: bold;
+}
+
+footer {
+    text-align: right;
+    font-style: italic;
+    padding: 10px;
+    color: rgb(185, 185, 185);
+    border-top: 1px solid gray;
+}
+
+footer a:link {
+color: rgb(131, 131, 131);
+}
+
+h1 {
+   
+    font-size: 45px;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    
+}
+
