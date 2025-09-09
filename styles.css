@@ -6,8 +6,8 @@ article {
     margin: 15px;
     background-image: url("WidgetCoLogo.gif");
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: 50%;
+    background-position: center 13%;
+    background-size: auto 60%;
 }
 
 
