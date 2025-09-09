@@ -1,15 +1,13 @@
-body {
-    background-image: url("WidgetCoLogo.gif");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 50%;
-}
 
 article {
     text-align: center;
     text-align: justify;
     padding: 5px 90px;
     margin: 15px;
+    background-image: url("WidgetCoLogo.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
 }
 
 
